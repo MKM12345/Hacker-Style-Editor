@@ -31,10 +31,12 @@ Contributions, bug reports, and feature requests are welcome! Please follow the 
 
 ## Acknowledgements
 
-- [Name of any libraries, frameworks, or resources you used]
+- W3SCHOOL editor for testing
 
 ## Contact
 
-For questions, suggestions, or any other inquiries, please contact [your-name] via [email address].
+For questions, suggestions, or any other inquiries, feel  free to open a discussion or an issue!
+
+Thank you!
 
 
