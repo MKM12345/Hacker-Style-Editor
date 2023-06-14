@@ -4,11 +4,16 @@ This is basically done but contributions are welcome!
 
 Thank you for considering contributing to Hacker Code Editor! Contributions are highly appreciated, and they help improve the project for everyone. Before getting started, please take a moment to review the guidelines outlined below.
 
+## Content
+* [Ways to Contribute](#ways-to-contribute)
+* [Guidelines for Pull Requests](#guidelines-for-pull-requests)
+* [Code of Conduct](#code-of-conduct)
+
 ## Ways to Contribute
 
 There are several ways you can contribute to Hacker-Style Editor:
 
-- Reporting Bugs: If you encounter a bug or unexpected behavior, please open an issue and provide a clear and detailed description of the problem. Include steps to reproduce it if possible.
+- Reporting Bugs: If you encounter a bug or unexpected behaviour, please open an issue and provide a clear and detailed description of the problem. Include steps to reproduce it if possible.
 
 - Suggesting Enhancements: Have an idea to make Hacker Code Editor even better? Open an issue and describe your enhancement suggestion. It can be a new feature, UI improvement, or any other enhancement you believe would be valuable.
 
