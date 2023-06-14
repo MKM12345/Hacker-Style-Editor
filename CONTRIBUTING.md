@@ -34,7 +34,7 @@ To submit a pull request, please follow these guidelines:
 
 5. Run the project locally to verify that your changes work as intended.
 
-6. Submit the pull request, and the project maintainers will review your changes. Please be patient as the review process may take some time.
+6. Submit the pull request, and the project maintainer will review your changes. Please be patient as the review process may take some time.
 
 ## Code of Conduct
 
