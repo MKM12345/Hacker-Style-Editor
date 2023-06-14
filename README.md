@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MKM12345/Hacker-Style-Editor/assets/120132998/5ca261d8-3014-4f15-bbe8-85e2f73289ae">
+  <img src="https://github.com/MKM12345/Hacker-Style-Editor/assets/120132998/9c987e52-9d46-4804-b805-b69bbd4792fd">
 </div>
 
 # Hacker-Style-Editor
