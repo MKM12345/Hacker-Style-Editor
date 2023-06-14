@@ -14,7 +14,7 @@ There are several ways you can contribute to Hacker-Style Editor:
 
 - Submitting Pull Requests: If you have a fix or an enhancement you would like to contribute, you can submit a pull request. Make sure to follow the guidelines below when submitting your pull request.
 
-- Helping me to deploy this on github page (TOP PRIORITY)
+
 ## Guidelines for Pull Requests
 
 To submit a pull request, please follow these guidelines:
