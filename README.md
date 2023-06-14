@@ -36,7 +36,7 @@ Contributions, bug reports, and feature requests are welcome! Please follow the 
 
 - W3SCHOOL editor for testing
 
-## Contact
+## Enquiries
 
 For questions, suggestions, or any other inquiries, feel  free to open a discussion or an issue!
 
