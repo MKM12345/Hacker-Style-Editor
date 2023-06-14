@@ -1,56 +1,11 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Hacker Code Editor</title>
-    <link rel="icon" href="/assets/Screenshot 2023-06-13 200230.png" type="image/x-icon">
-  <style>
-      body {
-      background-color: black;
-      color: lime;
-      font-family: "Courier New", monospace;
-      margin: 0;
-      padding: 0;
-      overflow: hidden;
-    }
-    #code-area {
-      width: 100%;
-      height: 100vh;
-      display: flex;
-      align-items: flex-start;
-      justify-content: flex-start;
-      flex-direction: column;
-      padding: 20px;
-      box-sizing: border-box;
-      white-space: pre;
-      overflow-y: scroll;
-    }
-    #code-area::selection {
-      background-color: #00FF00;
-    }
-    #code-area[contenteditable="true"]:empty::before {
-      content: attr(placeholder);
-      color: gray;
-    }
-    #code-area:focus {
-      outline: none;
-    }
-  </style>
-</head>
+  <link rel="icon" href="https://mkm12345.github.io/Hacker-Style-Editor/docs/assets/Screenshot 2023-06-13 200230.png" type="image/x-icon">
+  <link rel="stylesheet" href="/assets/styles.css">
+  </head>
 <body>
   <div id="code-area" contenteditable="true" placeholder="Type your HTML/CSS/JS code here..." spellcheck="false" onkeydown="handleKeyDown(event)"></div>
-  <script>
-      function handleKeyDown(event) {
-      if (event.key === "Enter" && !event.shiftKey) {
-        event.preventDefault();
-        showResult();
-      }
-    }
-    function showResult() {
-      var code = document.getElementById("code-area").innerText;
-      var resultWindow = window.open("", "_blank");
-      resultWindow.document.open();
-      resultWindow.document.write("<html><head></head><body>" + code + "</body></html>");
-      resultWindow.document.close();
-    }</script>
-</body>
+  <script src="main.js"></script>
+  </body>
 </html>
