@@ -1,8 +1,11 @@
+<div align="center">
+  <img src="https://github.com/MKM12345/Hacker-Style-Editor/assets/120132998/5ca261d8-3014-4f15-bbe8-85e2f73289ae">
+</div>
+
 # Hacker-Style-Editor
 
-<center>![image](https://github.com/MKM12345/Hacker-Style-Editor/assets/120132998/5ca261d8-3014-4f15-bbe8-85e2f73289ae)</center>
 Hello, this is an abnormal editor that uses no text areas, rather the whole HTML page is an editor....
-![image](https://github.com/MKM12345/Hacker-Style-Editor/assets/120132998/ef29cd59-8bfb-4c8d-bc61-143d869fa538)
+<img src="https://github.com/MKM12345/Hacker-Style-Editor/assets/120132998/ef29cd59-8bfb-4c8d-bc61-143d869fa538" alt="">
 
 
 ## Features
