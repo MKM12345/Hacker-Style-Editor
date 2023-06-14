@@ -1,8 +1,6 @@
 # Hacker-Style-Editor
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-A minimalist web-based code editor for HTML/CSS/JS with real-time preview and a hacker-style interface.
+Hello, this is an abnormal editor that uses no text areas, rather the whole HTML page is an editor....
 
 ## Features
 
@@ -11,6 +9,7 @@ A minimalist web-based code editor for HTML/CSS/JS with real-time preview and a 
 - Ability to open the code in a new window for a full-page view
 - Syntax highlighting with the "Courier New" monospace font
 - Dark theme for a hacker-style coding experience
+- Green Hacker text
 
 ## Usage
 
@@ -24,6 +23,8 @@ You can also test it out on the website.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
 
