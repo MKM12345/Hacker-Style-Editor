@@ -21,7 +21,7 @@ Hello, this is an abnormal editor that uses no text areas, rather the whole HTML
 
 1. Clone the repository: `git clone https://github.com/MKM12345/Hacker-Style-Editor.git`
 2. Open `index.html` in a web browser.
-3. Type your HTML/CSS/JS code directly into the editor area.
+3. Type your HTML/CSS/JS code directly into the htnl document.
 4. Press Enter to preview the code in a new window.
 5. Use Shift+Enter to insert a new line within the editor.
 
