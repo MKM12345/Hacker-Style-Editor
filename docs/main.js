@@ -10,6 +10,7 @@ function handleKeyDown(event) {
   }
 }
 
+
 function showResult() {
   var code = document.getElementById("code-area").innerText;
   var resultWindow = window.open("", "_blank");
