@@ -1,14 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>GlitchPad</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
-  <link rel="stylesheet" href="assets/style.css" />
-</head>
+  <title>Hacker Code Editor</title>
+  <link rel="icon" href="assets/Screenshot 2023-06-13 200230.png" type="image/x-icon">
+  <link rel="stylesheet" href="assets/styles.css">
+  </head>
 <body>
-  <pre id="editor" contenteditable="true" class="language-html" spellcheck="false"></pre>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+  <div id="code-area" contenteditable="true" placeholder="Type your HTML/CSS/JS code here..." spellcheck="false" onkeydown="handleKeyDown(event)"></div>
   <script src="main.js"></script>
-</body>
+  </body>
 </html>
