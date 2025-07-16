@@ -4,7 +4,8 @@
 
 # Hacker-Style-Editor
 
-Hello, this is an abnormal editor that uses no text areas, rather the whole HTML page is an editor....
+An abnormal editor that uses no text areas, rather the whole HTML page is an editor....
+
 <img src="https://github.com/MKM12345/Hacker-Style-Editor/assets/120132998/ef29cd59-8bfb-4c8d-bc61-143d869fa538" alt="">
 
 
