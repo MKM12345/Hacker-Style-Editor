@@ -1,3 +1,4 @@
+
 function handleKeyDown(event) {
   const codeArea = document.getElementById("code-area");
   
@@ -9,7 +10,6 @@ function handleKeyDown(event) {
     showResult();
   }
 }
-
 
 function showResult() {
   var code = document.getElementById("code-area").innerText;
