@@ -44,6 +44,5 @@ Contributions, bug reports, and feature requests are welcome! Please follow the 
 
 For questions, suggestions, or any other inquiries, feel  free to open a discussion or an issue!
 
-Thank you!
 
-WARNING! DO NOT space the code out from the start of the document! Type like that only!
+
